@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+       White       0.84      0.82      0.83      2023
+       Black       0.89      0.76      0.82       939
+       Asian       0.82      0.86      0.84       663
+      Indian       0.63      0.83      0.71       813
+    Hispanic       0.32      0.22      0.26       303
+
+    accuracy                           0.78      4741
+   macro avg       0.70      0.70      0.69      4741
+weighted avg       0.78      0.78      0.77      4741
+
